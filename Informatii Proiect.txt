@@ -1,0 +1,5 @@
+Nume proiect : afn 
+Cerinta : Implementarea unui automat finit nedeterminist
+
+Realizator : Tcaciuc Iulian-Marius
+Coordonator : -
